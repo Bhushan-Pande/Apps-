@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591677474714",
+    "firebase_url": "https://chatstart-bfd49.firebaseio.com",
+    "project_id": "chatstart-bfd49",
+    "storage_bucket": "chatstart-bfd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591677474714:android:96e70ef963cde42b48dc23",
+        "android_client_info": {
+          "package_name": "bhushan.chat_start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591677474714-kq5pab1ckomsfe51uio1264pipbisj6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVuIePZE3lq_y2b3NDfd0V6r9K0K5NiUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591677474714-kq5pab1ckomsfe51uio1264pipbisj6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
